@@ -1,0 +1,22 @@
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-frompassmessage\WindowsFormsApp-frompassmessage\bin\Debug\WindowsFormsApp-frompassmessage.exe.config
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-frompassmessage\WindowsFormsApp-frompassmessage\bin\Debug\WindowsFormsApp-frompassmessage.exe
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-frompassmessage\WindowsFormsApp-frompassmessage\bin\Debug\WindowsFormsApp-frompassmessage.pdb
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-frompassmessage\WindowsFormsApp-frompassmessage\obj\Debug\WindowsFormsApp-frompassmessage.csproj.AssemblyReference.cache
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-frompassmessage\WindowsFormsApp-frompassmessage\obj\Debug\WindowsFormsApp-frompassmessage.csproj.SuggestedBindingRedirects.cache
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-frompassmessage\WindowsFormsApp-frompassmessage\obj\Debug\WindowsFormsApp_frompassmessage.Form1.resources
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-frompassmessage\WindowsFormsApp-frompassmessage\obj\Debug\WindowsFormsApp_frompassmessage.Properties.Resources.resources
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-frompassmessage\WindowsFormsApp-frompassmessage\obj\Debug\WindowsFormsApp-frompassmessage.csproj.GenerateResource.cache
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-frompassmessage\WindowsFormsApp-frompassmessage\obj\Debug\WindowsFormsApp-frompassmessage.csproj.CoreCompileInputs.cache
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-frompassmessage\WindowsFormsApp-frompassmessage\obj\Debug\WindowsFormsApp-frompassmessage.exe
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-frompassmessage\WindowsFormsApp-frompassmessage\obj\Debug\WindowsFormsApp-frompassmessage.pdb
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-frompassmessage\WindowsFormsApp-frompassmessage\bin\Debug\WindowsFormsApp-frompassmessage.exe.config
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-frompassmessage\WindowsFormsApp-frompassmessage\bin\Debug\WindowsFormsApp-frompassmessage.exe
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-frompassmessage\WindowsFormsApp-frompassmessage\bin\Debug\WindowsFormsApp-frompassmessage.pdb
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-frompassmessage\WindowsFormsApp-frompassmessage\obj\Debug\WindowsFormsApp-frompassmessage.csproj.AssemblyReference.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-frompassmessage\WindowsFormsApp-frompassmessage\obj\Debug\WindowsFormsApp-frompassmessage.csproj.SuggestedBindingRedirects.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-frompassmessage\WindowsFormsApp-frompassmessage\obj\Debug\WindowsFormsApp_frompassmessage.Form1.resources
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-frompassmessage\WindowsFormsApp-frompassmessage\obj\Debug\WindowsFormsApp_frompassmessage.Properties.Resources.resources
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-frompassmessage\WindowsFormsApp-frompassmessage\obj\Debug\WindowsFormsApp-frompassmessage.csproj.GenerateResource.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-frompassmessage\WindowsFormsApp-frompassmessage\obj\Debug\WindowsFormsApp-frompassmessage.csproj.CoreCompileInputs.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-frompassmessage\WindowsFormsApp-frompassmessage\obj\Debug\WindowsFormsApp-frompassmessage.exe
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-frompassmessage\WindowsFormsApp-frompassmessage\obj\Debug\WindowsFormsApp-frompassmessage.pdb

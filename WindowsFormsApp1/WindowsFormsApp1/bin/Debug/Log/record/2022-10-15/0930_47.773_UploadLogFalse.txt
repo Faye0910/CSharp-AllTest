@@ -1,0 +1,7 @@
+{
+  "success": false,
+  "action": "1115",
+  "code": 99,
+  "message": "File not found at path: device_log/2022-09-11/MenzaConsole/132/57MB.txt",
+  "data": {}
+}

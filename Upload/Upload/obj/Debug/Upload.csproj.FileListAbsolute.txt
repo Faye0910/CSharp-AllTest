@@ -1,0 +1,22 @@
+C:\Users\Faye.Lin\source\repos\Upload\Upload\bin\Debug\Upload.exe.config
+C:\Users\Faye.Lin\source\repos\Upload\Upload\bin\Debug\Upload.exe
+C:\Users\Faye.Lin\source\repos\Upload\Upload\bin\Debug\Upload.pdb
+C:\Users\Faye.Lin\source\repos\Upload\Upload\obj\Debug\Upload.csproj.AssemblyReference.cache
+C:\Users\Faye.Lin\source\repos\Upload\Upload\obj\Debug\Upload.csproj.SuggestedBindingRedirects.cache
+C:\Users\Faye.Lin\source\repos\Upload\Upload\obj\Debug\Upload.Form1.resources
+C:\Users\Faye.Lin\source\repos\Upload\Upload\obj\Debug\Upload.Properties.Resources.resources
+C:\Users\Faye.Lin\source\repos\Upload\Upload\obj\Debug\Upload.csproj.GenerateResource.cache
+C:\Users\Faye.Lin\source\repos\Upload\Upload\obj\Debug\Upload.csproj.CoreCompileInputs.cache
+C:\Users\Faye.Lin\source\repos\Upload\Upload\obj\Debug\Upload.exe
+C:\Users\Faye.Lin\source\repos\Upload\Upload\obj\Debug\Upload.pdb
+C:\Users\Faye.Lin\source\repos\for test\Upload\Upload\bin\Debug\Upload.exe.config
+C:\Users\Faye.Lin\source\repos\for test\Upload\Upload\bin\Debug\Upload.exe
+C:\Users\Faye.Lin\source\repos\for test\Upload\Upload\bin\Debug\Upload.pdb
+C:\Users\Faye.Lin\source\repos\for test\Upload\Upload\obj\Debug\Upload.csproj.AssemblyReference.cache
+C:\Users\Faye.Lin\source\repos\for test\Upload\Upload\obj\Debug\Upload.csproj.SuggestedBindingRedirects.cache
+C:\Users\Faye.Lin\source\repos\for test\Upload\Upload\obj\Debug\Upload.Form1.resources
+C:\Users\Faye.Lin\source\repos\for test\Upload\Upload\obj\Debug\Upload.Properties.Resources.resources
+C:\Users\Faye.Lin\source\repos\for test\Upload\Upload\obj\Debug\Upload.csproj.GenerateResource.cache
+C:\Users\Faye.Lin\source\repos\for test\Upload\Upload\obj\Debug\Upload.csproj.CoreCompileInputs.cache
+C:\Users\Faye.Lin\source\repos\for test\Upload\Upload\obj\Debug\Upload.exe
+C:\Users\Faye.Lin\source\repos\for test\Upload\Upload\obj\Debug\Upload.pdb

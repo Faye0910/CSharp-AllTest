@@ -1,0 +1,11 @@
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-GitVersionNum\WindowsFormsApp-GitVersionNum\bin\Debug\WindowsFormsApp-GitVersionNum.exe.config
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-GitVersionNum\WindowsFormsApp-GitVersionNum\bin\Debug\WindowsFormsApp-GitVersionNum.exe
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-GitVersionNum\WindowsFormsApp-GitVersionNum\bin\Debug\WindowsFormsApp-GitVersionNum.pdb
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-GitVersionNum\WindowsFormsApp-GitVersionNum\obj\Debug\WindowsFormsApp-GitVersionNum.csproj.AssemblyReference.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-GitVersionNum\WindowsFormsApp-GitVersionNum\obj\Debug\WindowsFormsApp-GitVersionNum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-GitVersionNum\WindowsFormsApp-GitVersionNum\obj\Debug\WindowsFormsApp_GitVersionNum.Form1.resources
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-GitVersionNum\WindowsFormsApp-GitVersionNum\obj\Debug\WindowsFormsApp_GitVersionNum.Properties.Resources.resources
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-GitVersionNum\WindowsFormsApp-GitVersionNum\obj\Debug\WindowsFormsApp-GitVersionNum.csproj.GenerateResource.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-GitVersionNum\WindowsFormsApp-GitVersionNum\obj\Debug\WindowsFormsApp-GitVersionNum.csproj.CoreCompileInputs.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-GitVersionNum\WindowsFormsApp-GitVersionNum\obj\Debug\WindowsFormsApp-GitVersionNum.exe
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-GitVersionNum\WindowsFormsApp-GitVersionNum\obj\Debug\WindowsFormsApp-GitVersionNum.pdb

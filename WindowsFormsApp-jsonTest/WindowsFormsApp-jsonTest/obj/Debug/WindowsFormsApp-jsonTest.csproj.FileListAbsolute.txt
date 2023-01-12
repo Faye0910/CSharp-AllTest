@@ -1,0 +1,13 @@
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-jsonTest\WindowsFormsApp-jsonTest\bin\Debug\WindowsFormsApp-jsonTest.exe.config
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-jsonTest\WindowsFormsApp-jsonTest\bin\Debug\WindowsFormsApp-jsonTest.exe
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-jsonTest\WindowsFormsApp-jsonTest\bin\Debug\WindowsFormsApp-jsonTest.pdb
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-jsonTest\WindowsFormsApp-jsonTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-jsonTest\WindowsFormsApp-jsonTest\obj\Debug\WindowsFormsApp-jsonTest.csproj.AssemblyReference.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-jsonTest\WindowsFormsApp-jsonTest\obj\Debug\WindowsFormsApp-jsonTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-jsonTest\WindowsFormsApp-jsonTest\obj\Debug\WindowsFormsApp_jsonTest.Form1.resources
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-jsonTest\WindowsFormsApp-jsonTest\obj\Debug\WindowsFormsApp_jsonTest.Properties.Resources.resources
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-jsonTest\WindowsFormsApp-jsonTest\obj\Debug\WindowsFormsApp-jsonTest.csproj.GenerateResource.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-jsonTest\WindowsFormsApp-jsonTest\obj\Debug\WindowsFormsApp-jsonTest.csproj.CoreCompileInputs.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-jsonTest\WindowsFormsApp-jsonTest\obj\Debug\WindowsFormsApp-jsonTest.csproj.CopyComplete
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-jsonTest\WindowsFormsApp-jsonTest\obj\Debug\WindowsFormsApp-jsonTest.exe
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-jsonTest\WindowsFormsApp-jsonTest\obj\Debug\WindowsFormsApp-jsonTest.pdb

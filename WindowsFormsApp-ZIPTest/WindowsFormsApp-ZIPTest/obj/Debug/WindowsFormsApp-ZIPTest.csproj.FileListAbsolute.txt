@@ -1,0 +1,29 @@
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-ZIPTest\WindowsFormsApp-ZIPTest\bin\Debug\WindowsFormsApp-ZIPTest.exe.config
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-ZIPTest\WindowsFormsApp-ZIPTest\bin\Debug\WindowsFormsApp-ZIPTest.exe
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-ZIPTest\WindowsFormsApp-ZIPTest\bin\Debug\WindowsFormsApp-ZIPTest.pdb
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-ZIPTest\WindowsFormsApp-ZIPTest\bin\Debug\DotNetZip.dll
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-ZIPTest\WindowsFormsApp-ZIPTest\bin\Debug\DotNetZip.pdb
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-ZIPTest\WindowsFormsApp-ZIPTest\obj\Debug\WindowsFormsApp-ZIPTest.csproj.AssemblyReference.cache
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-ZIPTest\WindowsFormsApp-ZIPTest\obj\Debug\WindowsFormsApp-ZIPTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-ZIPTest\WindowsFormsApp-ZIPTest\obj\Debug\WindowsFormsApp_ZIPTest.Form1.resources
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-ZIPTest\WindowsFormsApp-ZIPTest\obj\Debug\WindowsFormsApp_ZIPTest.Properties.Resources.resources
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-ZIPTest\WindowsFormsApp-ZIPTest\obj\Debug\WindowsFormsApp-ZIPTest.csproj.GenerateResource.cache
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-ZIPTest\WindowsFormsApp-ZIPTest\obj\Debug\WindowsFormsApp-ZIPTest.csproj.CoreCompileInputs.cache
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-ZIPTest\WindowsFormsApp-ZIPTest\obj\Debug\WindowsFormsApp-ZIPTest.csproj.CopyComplete
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-ZIPTest\WindowsFormsApp-ZIPTest\obj\Debug\WindowsFormsApp-ZIPTest.exe
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-ZIPTest\WindowsFormsApp-ZIPTest\obj\Debug\WindowsFormsApp-ZIPTest.pdb
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-ZIPTest\WindowsFormsApp-ZIPTest\obj\Debug\WindowsFormsApp-ZIPTest.exe
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-ZIPTest\WindowsFormsApp-ZIPTest\obj\Debug\WindowsFormsApp-ZIPTest.pdb
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-ZIPTest\WindowsFormsApp-ZIPTest\bin\Debug\WindowsFormsApp-ZIPTest.exe.config
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-ZIPTest\WindowsFormsApp-ZIPTest\bin\Debug\WindowsFormsApp-ZIPTest.exe
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-ZIPTest\WindowsFormsApp-ZIPTest\bin\Debug\WindowsFormsApp-ZIPTest.pdb
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-ZIPTest\WindowsFormsApp-ZIPTest\bin\Debug\DotNetZip.dll
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-ZIPTest\WindowsFormsApp-ZIPTest\bin\Debug\System.IO.Compression.FileSystem.dll
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-ZIPTest\WindowsFormsApp-ZIPTest\bin\Debug\DotNetZip.pdb
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-ZIPTest\WindowsFormsApp-ZIPTest\obj\Debug\WindowsFormsApp-ZIPTest.csproj.AssemblyReference.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-ZIPTest\WindowsFormsApp-ZIPTest\obj\Debug\WindowsFormsApp-ZIPTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-ZIPTest\WindowsFormsApp-ZIPTest\obj\Debug\WindowsFormsApp_ZIPTest.Form1.resources
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-ZIPTest\WindowsFormsApp-ZIPTest\obj\Debug\WindowsFormsApp_ZIPTest.Properties.Resources.resources
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-ZIPTest\WindowsFormsApp-ZIPTest\obj\Debug\WindowsFormsApp-ZIPTest.csproj.GenerateResource.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-ZIPTest\WindowsFormsApp-ZIPTest\obj\Debug\WindowsFormsApp-ZIPTest.csproj.CoreCompileInputs.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-ZIPTest\WindowsFormsApp-ZIPTest\obj\Debug\WindowsFormsApp-ZIPTest.csproj.CopyComplete

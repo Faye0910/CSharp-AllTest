@@ -1,0 +1,8 @@
+﻿Method Name:SendCmd
+Parameters:
+buffer=System.Byte[]
+
+StackTrace:
+   at System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at io.api.MCU.SendCmd(Byte[] buffer) in C:\Code\My Project\IO\io.api\ioBoard\Device\MCU.cs:line 70
+The port is closed.

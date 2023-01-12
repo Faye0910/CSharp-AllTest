@@ -1,0 +1,7 @@
+﻿Method Name:PushQueue
+Parameters:
+
+StackTrace:
+   at System.IO.Ports.SerialPort.get_BytesToRead()
+   at io.api.ioBoard.PushQueue() in C:\Code\My Project\IO\io.api\ioBoard\ioBoard.cs:line 252
+The port is closed.

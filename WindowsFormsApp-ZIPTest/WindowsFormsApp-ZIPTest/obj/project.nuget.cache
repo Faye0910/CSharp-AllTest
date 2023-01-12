@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q9wSd+WqNsKqyV1ImfwHIa5Mc5kt0bCHD4YUX2TqY0uRylIR4xlBn1xW4R6cYSmVwVZYse7xRMvsYZC/hegWJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Faye.Lin\\source\\repos\\for test\\WindowsFormsApp-ZIPTest\\WindowsFormsApp-ZIPTest\\WindowsFormsApp-ZIPTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\dotnetzip\\1.16.0\\dotnetzip.1.16.0.nupkg.sha512"
+  ],
+  "logs": []
+}

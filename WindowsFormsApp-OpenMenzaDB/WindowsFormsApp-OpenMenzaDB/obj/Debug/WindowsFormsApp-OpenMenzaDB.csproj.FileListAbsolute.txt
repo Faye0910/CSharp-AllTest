@@ -1,0 +1,11 @@
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-OpenMenzaDB\WindowsFormsApp-OpenMenzaDB\bin\Debug\WindowsFormsApp-OpenMenzaDB.exe.config
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-OpenMenzaDB\WindowsFormsApp-OpenMenzaDB\bin\Debug\WindowsFormsApp-OpenMenzaDB.exe
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-OpenMenzaDB\WindowsFormsApp-OpenMenzaDB\bin\Debug\WindowsFormsApp-OpenMenzaDB.pdb
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-OpenMenzaDB\WindowsFormsApp-OpenMenzaDB\obj\Debug\WindowsFormsApp-OpenMenzaDB.csproj.AssemblyReference.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-OpenMenzaDB\WindowsFormsApp-OpenMenzaDB\obj\Debug\WindowsFormsApp-OpenMenzaDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-OpenMenzaDB\WindowsFormsApp-OpenMenzaDB\obj\Debug\WindowsFormsApp_OpenMenzaDB.Form1.resources
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-OpenMenzaDB\WindowsFormsApp-OpenMenzaDB\obj\Debug\WindowsFormsApp_OpenMenzaDB.Properties.Resources.resources
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-OpenMenzaDB\WindowsFormsApp-OpenMenzaDB\obj\Debug\WindowsFormsApp-OpenMenzaDB.csproj.GenerateResource.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-OpenMenzaDB\WindowsFormsApp-OpenMenzaDB\obj\Debug\WindowsFormsApp-OpenMenzaDB.csproj.CoreCompileInputs.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-OpenMenzaDB\WindowsFormsApp-OpenMenzaDB\obj\Debug\WindowsFormsApp-OpenMenzaDB.exe
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-OpenMenzaDB\WindowsFormsApp-OpenMenzaDB\obj\Debug\WindowsFormsApp-OpenMenzaDB.pdb

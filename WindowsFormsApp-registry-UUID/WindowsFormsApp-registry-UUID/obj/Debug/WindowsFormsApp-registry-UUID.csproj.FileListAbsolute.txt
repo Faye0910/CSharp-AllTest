@@ -1,0 +1,11 @@
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-registry-UUID\WindowsFormsApp-registry-UUID\bin\Debug\WindowsFormsApp-registry-UUID.exe.config
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-registry-UUID\WindowsFormsApp-registry-UUID\bin\Debug\WindowsFormsApp-registry-UUID.exe
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-registry-UUID\WindowsFormsApp-registry-UUID\bin\Debug\WindowsFormsApp-registry-UUID.pdb
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-registry-UUID\WindowsFormsApp-registry-UUID\obj\Debug\WindowsFormsApp-registry-UUID.csproj.AssemblyReference.cache
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-registry-UUID\WindowsFormsApp-registry-UUID\obj\Debug\WindowsFormsApp-registry-UUID.csproj.SuggestedBindingRedirects.cache
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-registry-UUID\WindowsFormsApp-registry-UUID\obj\Debug\WindowsFormsApp_registry_UUID.Form1.resources
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-registry-UUID\WindowsFormsApp-registry-UUID\obj\Debug\WindowsFormsApp_registry_UUID.Properties.Resources.resources
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-registry-UUID\WindowsFormsApp-registry-UUID\obj\Debug\WindowsFormsApp-registry-UUID.csproj.GenerateResource.cache
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-registry-UUID\WindowsFormsApp-registry-UUID\obj\Debug\WindowsFormsApp-registry-UUID.csproj.CoreCompileInputs.cache
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-registry-UUID\WindowsFormsApp-registry-UUID\obj\Debug\WindowsFormsApp-registry-UUID.exe
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-registry-UUID\WindowsFormsApp-registry-UUID\obj\Debug\WindowsFormsApp-registry-UUID.pdb

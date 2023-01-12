@@ -1,0 +1,12 @@
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-websocketAccept\WindowsFormsApp-websocketAccept\obj\Debug\WindowsFormsApp-websocketAccept.csproj.AssemblyReference.cache
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-websocketAccept\WindowsFormsApp-websocketAccept\obj\Debug\WindowsFormsApp-websocketAccept.csproj.SuggestedBindingRedirects.cache
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-websocketAccept\WindowsFormsApp-websocketAccept\obj\Debug\WindowsFormsApp_websocketAccept.Form1.resources
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-websocketAccept\WindowsFormsApp-websocketAccept\obj\Debug\WindowsFormsApp_websocketAccept.Properties.Resources.resources
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-websocketAccept\WindowsFormsApp-websocketAccept\obj\Debug\WindowsFormsApp-websocketAccept.csproj.GenerateResource.cache
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-websocketAccept\WindowsFormsApp-websocketAccept\obj\Debug\WindowsFormsApp-websocketAccept.csproj.CoreCompileInputs.cache
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-websocketAccept\WindowsFormsApp-websocketAccept\bin\Debug\WindowsFormsApp-websocketAccept.exe.config
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-websocketAccept\WindowsFormsApp-websocketAccept\bin\Debug\WindowsFormsApp-websocketAccept.exe
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-websocketAccept\WindowsFormsApp-websocketAccept\bin\Debug\WindowsFormsApp-websocketAccept.pdb
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-websocketAccept\WindowsFormsApp-websocketAccept\obj\Debug\WindowsFormsApp-websocketAccept.csproj.CopyComplete
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-websocketAccept\WindowsFormsApp-websocketAccept\obj\Debug\WindowsFormsApp-websocketAccept.exe
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-websocketAccept\WindowsFormsApp-websocketAccept\obj\Debug\WindowsFormsApp-websocketAccept.pdb

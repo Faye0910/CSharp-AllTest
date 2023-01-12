@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Uqb6RGC8wl0ZzaELqOHf/WY1nittFbXo5EcCcVGDSryJAtcG8/DSqrV32Q2qGdhjiuiyD7Ku5QL8Gxu2+cXeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Faye.Lin\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\WindowsFormsApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\libgit2sharp\\0.26.2\\libgit2sharp.0.26.2.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\libgit2sharp.nativebinaries\\2.0.306\\libgit2sharp.nativebinaries.2.0.306.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "拒絕存取路徑 'C:\\Documents and Settings'。"
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "拒絕存取路徑 'C:\\System Volume Information'。"
+    }
+  ]
+}

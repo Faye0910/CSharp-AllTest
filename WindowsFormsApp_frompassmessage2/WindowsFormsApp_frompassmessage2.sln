@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp_frompassmessage2", "WindowsFormsApp_frompassmessage2\WindowsFormsApp_frompassmessage2.csproj", "{FE417AB5-9C23-4B53-90A6-A12AA7A4F9B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE417AB5-9C23-4B53-90A6-A12AA7A4F9B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE417AB5-9C23-4B53-90A6-A12AA7A4F9B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE417AB5-9C23-4B53-90A6-A12AA7A4F9B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE417AB5-9C23-4B53-90A6-A12AA7A4F9B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5402C236-E6E4-422D-A22F-9EB54D49B13F}
+	EndGlobalSection
+EndGlobal

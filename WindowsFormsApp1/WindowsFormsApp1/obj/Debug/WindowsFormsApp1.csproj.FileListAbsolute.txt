@@ -1,0 +1,8 @@
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Volume.resources
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache

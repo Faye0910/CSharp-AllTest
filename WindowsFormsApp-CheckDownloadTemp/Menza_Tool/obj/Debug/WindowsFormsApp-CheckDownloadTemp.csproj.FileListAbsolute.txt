@@ -1,0 +1,16 @@
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-CheckDownloadTemp\WindowsFormsApp-CheckDownloadTemp\bin\Debug\WindowsFormsApp-CheckDownloadTemp.exe.config
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-CheckDownloadTemp\WindowsFormsApp-CheckDownloadTemp\bin\Debug\WindowsFormsApp-CheckDownloadTemp.exe
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-CheckDownloadTemp\WindowsFormsApp-CheckDownloadTemp\bin\Debug\WindowsFormsApp-CheckDownloadTemp.pdb
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-CheckDownloadTemp\WindowsFormsApp-CheckDownloadTemp\obj\Debug\WindowsFormsApp-CheckDownloadTemp.csproj.AssemblyReference.cache
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-CheckDownloadTemp\WindowsFormsApp-CheckDownloadTemp\obj\Debug\WindowsFormsApp-CheckDownloadTemp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-CheckDownloadTemp\WindowsFormsApp-CheckDownloadTemp\obj\Debug\WindowsFormsApp_CheckDownloadTemp.Form1.resources
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-CheckDownloadTemp\WindowsFormsApp-CheckDownloadTemp\obj\Debug\WindowsFormsApp_CheckDownloadTemp.Properties.Resources.resources
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-CheckDownloadTemp\WindowsFormsApp-CheckDownloadTemp\obj\Debug\WindowsFormsApp-CheckDownloadTemp.csproj.GenerateResource.cache
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-CheckDownloadTemp\WindowsFormsApp-CheckDownloadTemp\obj\Debug\WindowsFormsApp-CheckDownloadTemp.csproj.CoreCompileInputs.cache
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-CheckDownloadTemp\WindowsFormsApp-CheckDownloadTemp\obj\Debug\WindowsFormsApp-CheckDownloadTemp.exe
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-CheckDownloadTemp\WindowsFormsApp-CheckDownloadTemp\obj\Debug\WindowsFormsApp-CheckDownloadTemp.pdb
+C:\Users\Faye.Lin\source\repos\Monitor\Monitor\bin\Debug\WindowsFormsApp-CheckDownloadTemp.exe.config
+C:\Users\Faye.Lin\source\repos\Monitor\Monitor\bin\Debug\WindowsFormsApp-CheckDownloadTemp.exe
+C:\Users\Faye.Lin\source\repos\Monitor\Monitor\bin\Debug\WindowsFormsApp-CheckDownloadTemp.pdb
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-CheckDownloadTemp\WindowsFormsApp-CheckDownloadTemp\obj\Debug\WindowsFormsApp_CheckDownloadTemp.progressForm.resources
+C:\Users\Faye.Lin\source\repos\WindowsFormsApp-CheckDownloadTemp\WindowsFormsApp-CheckDownloadTemp\obj\Debug\WindowsFormsApp-CheckDownloadTemp.csproj.CopyComplete

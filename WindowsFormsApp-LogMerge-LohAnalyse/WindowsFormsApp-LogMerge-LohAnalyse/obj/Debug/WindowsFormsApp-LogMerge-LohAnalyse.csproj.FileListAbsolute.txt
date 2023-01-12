@@ -1,0 +1,11 @@
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-LogMerge-LohAnalyse\WindowsFormsApp-LogMerge-LohAnalyse\bin\Debug\WindowsFormsApp-LogMerge-LohAnalyse.exe.config
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-LogMerge-LohAnalyse\WindowsFormsApp-LogMerge-LohAnalyse\bin\Debug\WindowsFormsApp-LogMerge-LohAnalyse.exe
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-LogMerge-LohAnalyse\WindowsFormsApp-LogMerge-LohAnalyse\bin\Debug\WindowsFormsApp-LogMerge-LohAnalyse.pdb
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-LogMerge-LohAnalyse\WindowsFormsApp-LogMerge-LohAnalyse\obj\Debug\WindowsFormsApp-LogMerge-LohAnalyse.csproj.AssemblyReference.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-LogMerge-LohAnalyse\WindowsFormsApp-LogMerge-LohAnalyse\obj\Debug\WindowsFormsApp-LogMerge-LohAnalyse.csproj.SuggestedBindingRedirects.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-LogMerge-LohAnalyse\WindowsFormsApp-LogMerge-LohAnalyse\obj\Debug\WindowsFormsApp_LogMerge_LohAnalyse.Form1.resources
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-LogMerge-LohAnalyse\WindowsFormsApp-LogMerge-LohAnalyse\obj\Debug\WindowsFormsApp_LogMerge_LohAnalyse.Properties.Resources.resources
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-LogMerge-LohAnalyse\WindowsFormsApp-LogMerge-LohAnalyse\obj\Debug\WindowsFormsApp-LogMerge-LohAnalyse.csproj.GenerateResource.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-LogMerge-LohAnalyse\WindowsFormsApp-LogMerge-LohAnalyse\obj\Debug\WindowsFormsApp-LogMerge-LohAnalyse.csproj.CoreCompileInputs.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-LogMerge-LohAnalyse\WindowsFormsApp-LogMerge-LohAnalyse\obj\Debug\WindowsFormsApp-LogMerge-LohAnalyse.exe
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-LogMerge-LohAnalyse\WindowsFormsApp-LogMerge-LohAnalyse\obj\Debug\WindowsFormsApp-LogMerge-LohAnalyse.pdb

@@ -1,0 +1,11 @@
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-SetNTPTime\WindowsFormsApp-SetNTPTime\bin\Debug\WindowsFormsApp-SetNTPTime.exe.config
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-SetNTPTime\WindowsFormsApp-SetNTPTime\bin\Debug\WindowsFormsApp-SetNTPTime.exe
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-SetNTPTime\WindowsFormsApp-SetNTPTime\bin\Debug\WindowsFormsApp-SetNTPTime.pdb
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-SetNTPTime\WindowsFormsApp-SetNTPTime\obj\Debug\WindowsFormsApp-SetNTPTime.csproj.AssemblyReference.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-SetNTPTime\WindowsFormsApp-SetNTPTime\obj\Debug\WindowsFormsApp-SetNTPTime.csproj.SuggestedBindingRedirects.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-SetNTPTime\WindowsFormsApp-SetNTPTime\obj\Debug\WindowsFormsApp_SetNTPTime.Form1.resources
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-SetNTPTime\WindowsFormsApp-SetNTPTime\obj\Debug\WindowsFormsApp_SetNTPTime.Properties.Resources.resources
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-SetNTPTime\WindowsFormsApp-SetNTPTime\obj\Debug\WindowsFormsApp-SetNTPTime.csproj.GenerateResource.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-SetNTPTime\WindowsFormsApp-SetNTPTime\obj\Debug\WindowsFormsApp-SetNTPTime.csproj.CoreCompileInputs.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-SetNTPTime\WindowsFormsApp-SetNTPTime\obj\Debug\WindowsFormsApp-SetNTPTime.exe
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-SetNTPTime\WindowsFormsApp-SetNTPTime\obj\Debug\WindowsFormsApp-SetNTPTime.pdb

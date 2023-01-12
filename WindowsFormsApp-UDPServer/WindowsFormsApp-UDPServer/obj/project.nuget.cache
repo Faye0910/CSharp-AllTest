@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "znXGEg5CQw/ByW3UujVlfZtqKlAd43W8/MOx9Vm9f84KZiHwzAQa/qRbPRGGBPDPAr9PnA1IgS/v+p1djovziA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Faye.Lin\\source\\repos\\for test\\WindowsFormsApp-UDPServer\\WindowsFormsApp-UDPServer\\WindowsFormsApp-UDPServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-CRC\WindowsFormsApp-CRC\bin\Debug\WindowsFormsApp-CRC.exe.config
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-CRC\WindowsFormsApp-CRC\bin\Debug\WindowsFormsApp-CRC.exe
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-CRC\WindowsFormsApp-CRC\bin\Debug\WindowsFormsApp-CRC.pdb
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-CRC\WindowsFormsApp-CRC\obj\Debug\WindowsFormsApp-CRC.csproj.AssemblyReference.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-CRC\WindowsFormsApp-CRC\obj\Debug\WindowsFormsApp-CRC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-CRC\WindowsFormsApp-CRC\obj\Debug\WindowsFormsApp_CRC.Form1.resources
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-CRC\WindowsFormsApp-CRC\obj\Debug\WindowsFormsApp_CRC.Properties.Resources.resources
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-CRC\WindowsFormsApp-CRC\obj\Debug\WindowsFormsApp-CRC.csproj.GenerateResource.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-CRC\WindowsFormsApp-CRC\obj\Debug\WindowsFormsApp-CRC.csproj.CoreCompileInputs.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-CRC\WindowsFormsApp-CRC\obj\Debug\WindowsFormsApp-CRC.exe
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-CRC\WindowsFormsApp-CRC\obj\Debug\WindowsFormsApp-CRC.pdb

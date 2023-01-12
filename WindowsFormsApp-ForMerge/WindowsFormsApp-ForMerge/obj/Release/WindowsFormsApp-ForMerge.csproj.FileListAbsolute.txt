@@ -1,0 +1,11 @@
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-ForMerge\WindowsFormsApp-ForMerge\bin\Release\WindowsFormsApp-ForMerge.exe.config
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-ForMerge\WindowsFormsApp-ForMerge\bin\Release\WindowsFormsApp-ForMerge.exe
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-ForMerge\WindowsFormsApp-ForMerge\bin\Release\WindowsFormsApp-ForMerge.pdb
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-ForMerge\WindowsFormsApp-ForMerge\obj\Release\WindowsFormsApp-ForMerge.csproj.AssemblyReference.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-ForMerge\WindowsFormsApp-ForMerge\obj\Release\WindowsFormsApp-ForMerge.csproj.SuggestedBindingRedirects.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-ForMerge\WindowsFormsApp-ForMerge\obj\Release\WindowsFormsApp_ForMerge.Form1.resources
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-ForMerge\WindowsFormsApp-ForMerge\obj\Release\WindowsFormsApp_ForMerge.Properties.Resources.resources
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-ForMerge\WindowsFormsApp-ForMerge\obj\Release\WindowsFormsApp-ForMerge.csproj.GenerateResource.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-ForMerge\WindowsFormsApp-ForMerge\obj\Release\WindowsFormsApp-ForMerge.csproj.CoreCompileInputs.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-ForMerge\WindowsFormsApp-ForMerge\obj\Release\WindowsFormsApp-ForMerge.exe
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-ForMerge\WindowsFormsApp-ForMerge\obj\Release\WindowsFormsApp-ForMerge.pdb

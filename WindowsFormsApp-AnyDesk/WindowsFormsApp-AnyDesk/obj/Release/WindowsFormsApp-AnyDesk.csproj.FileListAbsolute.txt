@@ -1,0 +1,11 @@
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-AnyDesk\WindowsFormsApp-AnyDesk\bin\Release\WindowsFormsApp-AnyDesk.exe.config
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-AnyDesk\WindowsFormsApp-AnyDesk\bin\Release\WindowsFormsApp-AnyDesk.exe
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-AnyDesk\WindowsFormsApp-AnyDesk\bin\Release\WindowsFormsApp-AnyDesk.pdb
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-AnyDesk\WindowsFormsApp-AnyDesk\obj\Release\WindowsFormsApp-AnyDesk.csproj.AssemblyReference.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-AnyDesk\WindowsFormsApp-AnyDesk\obj\Release\WindowsFormsApp-AnyDesk.csproj.SuggestedBindingRedirects.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-AnyDesk\WindowsFormsApp-AnyDesk\obj\Release\WindowsFormsApp_AnyDesk.Form1.resources
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-AnyDesk\WindowsFormsApp-AnyDesk\obj\Release\WindowsFormsApp_AnyDesk.Properties.Resources.resources
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-AnyDesk\WindowsFormsApp-AnyDesk\obj\Release\WindowsFormsApp-AnyDesk.csproj.GenerateResource.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-AnyDesk\WindowsFormsApp-AnyDesk\obj\Release\WindowsFormsApp-AnyDesk.csproj.CoreCompileInputs.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-AnyDesk\WindowsFormsApp-AnyDesk\obj\Release\WindowsFormsApp-AnyDesk.exe
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-AnyDesk\WindowsFormsApp-AnyDesk\obj\Release\WindowsFormsApp-AnyDesk.pdb

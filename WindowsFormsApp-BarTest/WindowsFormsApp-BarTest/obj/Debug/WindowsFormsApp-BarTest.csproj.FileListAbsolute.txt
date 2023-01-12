@@ -1,0 +1,11 @@
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-BarTest\WindowsFormsApp-BarTest\obj\Debug\WindowsFormsApp-BarTest.csproj.AssemblyReference.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-BarTest\WindowsFormsApp-BarTest\obj\Debug\WindowsFormsApp-BarTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-BarTest\WindowsFormsApp-BarTest\obj\Debug\WindowsFormsApp_BarTest.Form1.resources
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-BarTest\WindowsFormsApp-BarTest\obj\Debug\WindowsFormsApp_BarTest.Properties.Resources.resources
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-BarTest\WindowsFormsApp-BarTest\obj\Debug\WindowsFormsApp-BarTest.csproj.GenerateResource.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-BarTest\WindowsFormsApp-BarTest\obj\Debug\WindowsFormsApp-BarTest.csproj.CoreCompileInputs.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-BarTest\WindowsFormsApp-BarTest\bin\Debug\WindowsFormsApp-BarTest.exe.config
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-BarTest\WindowsFormsApp-BarTest\bin\Debug\WindowsFormsApp-BarTest.exe
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-BarTest\WindowsFormsApp-BarTest\bin\Debug\WindowsFormsApp-BarTest.pdb
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-BarTest\WindowsFormsApp-BarTest\obj\Debug\WindowsFormsApp-BarTest.exe
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-BarTest\WindowsFormsApp-BarTest\obj\Debug\WindowsFormsApp-BarTest.pdb

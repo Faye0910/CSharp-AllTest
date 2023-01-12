@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Faye.Lin\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\WindowsFormsApp2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Faye.Lin\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\WindowsFormsApp2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Faye.Lin\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\WindowsFormsApp2.csproj",
+        "projectName": "WindowsFormsApp2",
+        "projectPath": "C:\\Users\\Faye.Lin\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\WindowsFormsApp2.csproj",
+        "packagesPath": "C:\\Users\\Faye.Lin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Faye.Lin\\source\\repos\\WindowsFormsApp2\\WindowsFormsApp2\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Faye.Lin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "C:\\": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "LibGit2Sharp": {
+              "target": "Package",
+              "version": "[0.26.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

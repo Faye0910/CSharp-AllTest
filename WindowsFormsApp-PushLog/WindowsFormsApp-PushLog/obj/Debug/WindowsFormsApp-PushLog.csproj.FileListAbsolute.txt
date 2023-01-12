@@ -1,0 +1,11 @@
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-PushLog\WindowsFormsApp-PushLog\bin\Debug\WindowsFormsApp-PushLog.exe.config
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-PushLog\WindowsFormsApp-PushLog\bin\Debug\WindowsFormsApp-PushLog.exe
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-PushLog\WindowsFormsApp-PushLog\bin\Debug\WindowsFormsApp-PushLog.pdb
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-PushLog\WindowsFormsApp-PushLog\obj\Debug\WindowsFormsApp-PushLog.csproj.AssemblyReference.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-PushLog\WindowsFormsApp-PushLog\obj\Debug\WindowsFormsApp-PushLog.csproj.SuggestedBindingRedirects.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-PushLog\WindowsFormsApp-PushLog\obj\Debug\WindowsFormsApp_PushLog.Form1.resources
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-PushLog\WindowsFormsApp-PushLog\obj\Debug\WindowsFormsApp_PushLog.Properties.Resources.resources
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-PushLog\WindowsFormsApp-PushLog\obj\Debug\WindowsFormsApp-PushLog.csproj.GenerateResource.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-PushLog\WindowsFormsApp-PushLog\obj\Debug\WindowsFormsApp-PushLog.csproj.CoreCompileInputs.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-PushLog\WindowsFormsApp-PushLog\obj\Debug\WindowsFormsApp-PushLog.exe
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-PushLog\WindowsFormsApp-PushLog\obj\Debug\WindowsFormsApp-PushLog.pdb

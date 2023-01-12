@@ -1,0 +1,9 @@
+[
+  {
+    "schedule_id": 180,
+    "part_type_id": 19,
+    "version": "2.0.3.7",
+    "account_day": "2022-12-19",
+    "url": "https://github.com/Faye-Laxan/ATM-Formal.git"
+  }
+]

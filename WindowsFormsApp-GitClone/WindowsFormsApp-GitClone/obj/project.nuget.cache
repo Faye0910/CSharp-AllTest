@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gyDqVgDUbPXZ5tZeBAiWxv5bTi9JKQ1JqpX7ticgSsLVM8Hck+ZIDeddrCjQ+8P4/b3pK/05p/nEknFfVYmztw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Faye.Lin\\source\\repos\\for test\\WindowsFormsApp-GitClone\\WindowsFormsApp-GitClone\\WindowsFormsApp-GitClone.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\libgit2sharp\\0.26.2\\libgit2sharp.0.26.2.nupkg.sha512",
+    "C:\\Users\\Faye.Lin\\.nuget\\packages\\libgit2sharp.nativebinaries\\2.0.306\\libgit2sharp.nativebinaries.2.0.306.nupkg.sha512"
+  ],
+  "logs": []
+}

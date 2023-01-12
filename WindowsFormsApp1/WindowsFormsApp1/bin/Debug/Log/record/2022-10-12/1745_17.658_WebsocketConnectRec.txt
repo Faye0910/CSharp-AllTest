@@ -1,0 +1,1 @@
+{"event":"pusher:connection_established","data":"{"socket_id":"805993913.655055078","activity_timeout":30}"}

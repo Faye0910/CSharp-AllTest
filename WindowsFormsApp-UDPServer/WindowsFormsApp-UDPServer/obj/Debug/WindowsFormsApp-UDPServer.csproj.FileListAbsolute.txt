@@ -1,0 +1,13 @@
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-UDPServer\WindowsFormsApp-UDPServer\bin\Debug\WindowsFormsApp-UDPServer.exe.config
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-UDPServer\WindowsFormsApp-UDPServer\bin\Debug\WindowsFormsApp-UDPServer.exe
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-UDPServer\WindowsFormsApp-UDPServer\bin\Debug\WindowsFormsApp-UDPServer.pdb
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-UDPServer\WindowsFormsApp-UDPServer\obj\Debug\WindowsFormsApp-UDPServer.csproj.AssemblyReference.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-UDPServer\WindowsFormsApp-UDPServer\obj\Debug\WindowsFormsApp-UDPServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-UDPServer\WindowsFormsApp-UDPServer\obj\Debug\WindowsFormsApp_UDPServer.Form1.resources
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-UDPServer\WindowsFormsApp-UDPServer\obj\Debug\WindowsFormsApp_UDPServer.Properties.Resources.resources
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-UDPServer\WindowsFormsApp-UDPServer\obj\Debug\WindowsFormsApp-UDPServer.csproj.GenerateResource.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-UDPServer\WindowsFormsApp-UDPServer\obj\Debug\WindowsFormsApp-UDPServer.csproj.CoreCompileInputs.cache
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-UDPServer\WindowsFormsApp-UDPServer\obj\Debug\WindowsFormsApp-UDPServer.exe
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-UDPServer\WindowsFormsApp-UDPServer\obj\Debug\WindowsFormsApp-UDPServer.pdb
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-UDPServer\WindowsFormsApp-UDPServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Faye.Lin\source\repos\for test\WindowsFormsApp-UDPServer\WindowsFormsApp-UDPServer\obj\Debug\WindowsFormsApp-UDPServer.csproj.CopyComplete

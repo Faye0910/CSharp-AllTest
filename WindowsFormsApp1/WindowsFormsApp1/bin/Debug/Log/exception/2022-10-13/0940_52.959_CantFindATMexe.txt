@@ -1,0 +1,4 @@
+System.IO.FileNotFoundException: C:\Monitor\Monitor\MenzaConsole\bin\ATM.exe
+   於 System.Diagnostics.FileVersionInfo.GetVersionInfo(String fileName)
+   於 MenzaLoader.Form1.VersionNum(String exedir) 於 C:\Monitor\Monitor\MenzaLoader\Form1.cs: 行 474
+   於 MenzaLoader.Form1.<Form1_Load>d__34.MoveNext() 於 C:\Monitor\Monitor\MenzaLoader\Form1.cs: 行 396

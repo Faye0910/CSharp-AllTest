@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Faye.Lin\\source\\repos\\for test\\WindowsFormsApp-ZIPTest\\WindowsFormsApp-ZIPTest\\WindowsFormsApp-ZIPTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Faye.Lin\\source\\repos\\for test\\WindowsFormsApp-ZIPTest\\WindowsFormsApp-ZIPTest\\WindowsFormsApp-ZIPTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Faye.Lin\\source\\repos\\for test\\WindowsFormsApp-ZIPTest\\WindowsFormsApp-ZIPTest\\WindowsFormsApp-ZIPTest.csproj",
+        "projectName": "WindowsFormsApp-ZIPTest",
+        "projectPath": "C:\\Users\\Faye.Lin\\source\\repos\\for test\\WindowsFormsApp-ZIPTest\\WindowsFormsApp-ZIPTest\\WindowsFormsApp-ZIPTest.csproj",
+        "packagesPath": "C:\\Users\\Faye.Lin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Faye.Lin\\source\\repos\\for test\\WindowsFormsApp-ZIPTest\\WindowsFormsApp-ZIPTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Faye.Lin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\nupkg": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "DotNetZip": {
+              "target": "Package",
+              "version": "[1.16.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
